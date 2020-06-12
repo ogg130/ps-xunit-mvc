@@ -1,0 +1,17 @@
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\bower.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\bundleconfig.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\Properties\launchSettings.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.deps.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.runtimeconfig.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.runtimeconfig.dev.json
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.dll
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.pdb
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.csprojAssemblyReference.cache
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.csproj.CoreCompileInputs.cache
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.AssemblyInfoInputs.cache
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.AssemblyInfo.cs
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.dll
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.pdb
+C:\Users\rogden\source\repos\ps-xunit-mvc\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.genruntimeconfig.cache
